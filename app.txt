@@ -1,0 +1,2 @@
+addStudent() : Adds student info to the system.
+
